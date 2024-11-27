@@ -1,7 +1,4 @@
 {
-  "dependencies": {
-    "@next/font": "^14.2.15",
-    "@vercel/postgres": "^0.10.0"
   "private": true,
   "scripts": {
     "build": "next build",
@@ -12,7 +9,7 @@
     "@heroicons/react": "^2.1.4",
     "@next/font": "^14.2.15",
     "@tailwindcss/forms": "^0.5.7",
-    "@vercel/postgres": "^0.8.0",
+    "@vercel/postgres": "^0.10.0",
     "autoprefixer": "10.4.19",
     "bcrypt": "^5.1.1",
     "clsx": "^2.1.1",
@@ -36,6 +33,6 @@
     "overrides": {
       "@types/react": "npm:types-react@19.0.0-rc.1",
       "@types/react-dom": "npm:types-react-dom@19.0.0-rc.1"
-    } 
+    }
   }
 }
