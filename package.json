@@ -1,9 +1,7 @@
 {
-<<<<<<< HEAD
   "dependencies": {
     "@next/font": "^14.2.15",
     "@vercel/postgres": "^0.10.0"
-=======
   "private": true,
   "scripts": {
     "build": "next build",
